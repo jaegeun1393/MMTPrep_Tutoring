@@ -7,6 +7,7 @@
   ![Front-end](https://img.shields.io/badge/Front--end-React%20%2B%20Vite-lightblue)
   ![Back-end](https://img.shields.io/badge/Back--end-Nodejs%20Socket-yellowgreen)
   [![Link](https://img.shields.io/badge/Link-mmtprep.com-blue)](https://mmtprep.com)
+[![Design](https://img.shields.io/badge/Design-Figma-purple)](https://www.figma.com/proto/sPkQhLHX04UTgPbHhiptCw/LMS-2?node-id=1172-1364&starting-point-node-id=1172%3A1364&t=eOELep6PxhT2bGq4-1)
 
 </div>
 
