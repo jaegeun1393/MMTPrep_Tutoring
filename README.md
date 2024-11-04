@@ -1,5 +1,5 @@
 # MMTPrep Tutoring Website
-![<Example template>](<https://github.com/jaegeun1393/mmt-math-worksheet/blob/main/1.PNG>)
+![<Example template>](<https://github.com/jaegeun1393/MMTPrep_Tutoring/blob/main/main.png>)
 
 **Short Description:**  
 This is the tutoring website named **MMTPrep**—a custom MERN project that marks my first full-stack development experience. The website initially began on Wix Studio, but as the business grew, its requirements outpaced the capabilities of Wix. This led to the creation of a more robust and feature-rich solution.
