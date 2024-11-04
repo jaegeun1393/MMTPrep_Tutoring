@@ -65,3 +65,11 @@ One of the standout features of the MMTPrep website is the online whiteboard, bu
 </div>
 
 This feature is designed to save class notes, allowing teachers to leave detailed feedback after each session. Teachers can evaluate the class content and provide insights into a student’s attitude and progress, helping to ensure the right guidance is provided to both students and teachers.
+
+---
+
+## **Conclusion**  
+By utilizing **Vite**, we significantly reduced web rendering times, which helped MMTPrep rank at the top of Google search results. The efficient handling of various metadata also allows users to seamlessly navigate between different tabs. This web project was developed not only for convenience for the users but also to enhance the overall user experience. The design ensures that parents can easily access information about their child’s classes, invoices, and schedules on both mobile and desktop devices.
+
+The highlight of this web project is undoubtedly the **Online Whiteboard**. Leveraging **Socket.io**, we addressed user delay and disconnection issues, and designed the whiteboard to allow teachers and students to freely interact using uploaded PDFs or images.
+
