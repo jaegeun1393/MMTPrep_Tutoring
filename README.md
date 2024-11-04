@@ -22,18 +22,18 @@ This is the tutoring website named **MMTPrep**—a custom MERN project that mark
 
 ---
 
+## **User Management**
 <div align="center">
   <img src="https://github.com/jaegeun1393/MMTPrep_Tutoring/blob/main/user.png">
 </div>
 
-## **User Management**
 This feature is designed to manage all types of users, including teachers, students, and parents. It facilitates adding or modifying user information, providing a user experience similar to other well-known platforms.
 
+## **Blog Management**
 <div align="center">
   <img src="https://github.com/jaegeun1393/MMTPrep_Tutoring/blob/main/Screenshot%202024-11-03%20181604.png">
 </div>
 
-## **Blog Management**
 The blog management tool enables admins to add or edit articles, with a focus on SEO to improve Google rankings. The blog serves as a valuable resource for parents interested in learning more about the college admissions process. Additionally, any public Notion page can be uploaded as a blog article. For users familiar with Markdown, they can simply add the Notion page address to embed the Notion article directly on the MMTPrep website.
 
 ## **Scheduling Management**
