@@ -46,6 +46,9 @@ A unique feature of the invoice management system is the ability to track whethe
 <div align="center">
   <img src="https://github.com/jaegeun1393/MMTPrep_Tutoring/blob/main/class_room.png">
 </div>
+<div align="center">
+  <img src="https://github.com/jaegeun1393/MMTPrep_Tutoring/blob/main/Screenshot%202024-11-03%20182757.png">
+</div>
 One of the standout features of the MMTPrep website is the online whiteboard, built with **Socket.io** for real-time data transfer and powered by **Fabric.js**. All whiteboard data is stored in a vector format, allowing for infinite scaling. The whiteboard also tracks user connections and includes protocol tools to ensure teachers can effectively manage student interactions during the sessions.
 
 ## **Student Progress Report Management**
