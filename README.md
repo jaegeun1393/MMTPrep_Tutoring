@@ -40,6 +40,12 @@ The blog management tool enables admins to add or edit articles, with a focus on
 This tool was specifically designed for managing the Summer SAT class schedule. Previously, scheduling was handled manually, involving calls to customers and handwritten notes. To streamline this process, the scheduling tool allows the admin to set up classes, while users submit their availability. The admin then approves the schedule, greatly reducing scheduling time and administrative overhead.
 
 ## **Invoice Management**
+<div align="center">
+  <img src="https://github.com/jaegeun1393/MMTPrep_Tutoring/blob/main/invoice.png">
+</div>
+<div align="center">
+  <img src="https://github.com/jaegeun1393/MMTPrep_Tutoring/blob/main/invoice_2.png">
+</div>
 A unique feature of the invoice management system is the ability to track whether parents have viewed the invoice. This helps reduce missed payments by notifying parents who haven't opened their invoices.
 
 ## **Online Whiteboard Management**
