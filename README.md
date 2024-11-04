@@ -46,6 +46,7 @@ This tool was specifically designed for managing the Summer SAT class schedule. 
 <div align="center">
   <img src="https://github.com/jaegeun1393/MMTPrep_Tutoring/blob/main/invoice_2.png">
 </div>
+
 A unique feature of the invoice management system is the ability to track whether parents have viewed the invoice. This helps reduce missed payments by notifying parents who haven't opened their invoices.
 
 ## **Online Whiteboard Management**
@@ -55,7 +56,12 @@ A unique feature of the invoice management system is the ability to track whethe
 <div align="center">
   <img src="https://github.com/jaegeun1393/MMTPrep_Tutoring/blob/main/Screenshot%202024-11-03%20182757.png">
 </div>
+
 One of the standout features of the MMTPrep website is the online whiteboard, built with **Socket.io** for real-time data transfer and powered by **Fabric.js**. All whiteboard data is stored in a vector format, allowing for infinite scaling. The whiteboard also tracks user connections and includes protocol tools to ensure teachers can effectively manage student interactions during the sessions.
 
 ## **Student Progress Report Management**
+<div align="center">
+  <img src="https://github.com/jaegeun1393/MMTPrep_Tutoring/blob/main/progress_report.png">
+</div>
+
 This feature is designed to save class notes, allowing teachers to leave detailed feedback after each session. Teachers can evaluate the class content and provide insights into a student’s attitude and progress, helping to ensure the right guidance is provided to both students and teachers.
