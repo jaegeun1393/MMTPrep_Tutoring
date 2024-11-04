@@ -1,6 +1,9 @@
 # MMTPrep Tutoring Website
 ![<Example template>](<https://github.com/jaegeun1393/MMTPrep_Tutoring/blob/main/main.png>)
-![Build Status](https://img.shields.io/badge/Build%20Status-Passing-brightgreen?style=flat)
+
+![Build](https://img.shields.io/badge/Build-Complete-green)
+![Front-end](https://img.shields.io/badge/Front--end-React%20%2B%20Vite-lightblue)
+![Back-end](https://img.shields.io/badge/Back--end-Nodejs%20Socket-yellowgreen)
 
 **Short Description:**  
 This is the tutoring website named **MMTPrep**—a custom MERN project that marks my first full-stack development experience. The website initially began on Wix Studio, but as the business grew, its requirements outpaced the capabilities of Wix. This led to the creation of a more robust and feature-rich solution.
