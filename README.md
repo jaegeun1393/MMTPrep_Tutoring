@@ -30,6 +30,9 @@ This is the tutoring website named **MMTPrep**—a custom MERN project that mark
 - Student Progress Report Management
 
 # Before Start
+<div align="center">
+  <img src="https://github.com/jaegeun1393/MMTPrep_Tutoring/blob/main/Screenshot%202024-11-03%20192220.png">
+</div>
 
 This project was designed to ensure multiple functions operate seamlessly. Initially, I considered various cloud services such as AWS and Azure, but due to the dynamically fluctuating costs tied to web traffic, I decided to use a separate hosting service and installed **cPanel** (a web deployment service) to begin development.
 
