@@ -2,10 +2,12 @@
 ![<Example template>](<https://github.com/jaegeun1393/MMTPrep_Tutoring/blob/main/main.png>)
 
 <div align="center">
-  ![Build](https://img.shields.io/badge/Build-Complete-green)  
-  ![Front-end](https://img.shields.io/badge/Front--end-React%20%2B%20Vite-lightblue)  
-  ![Back-end](https://img.shields.io/badge/Back--end-Nodejs%20Socket-yellowgreen)  
-[![Link](https://img.shields.io/badge/Link-mmtprep.com-blue)](https://mmtprep.com)
+
+  ![Build](https://img.shields.io/badge/Build-Complete-green)
+  ![Front-end](https://img.shields.io/badge/Front--end-React%20%2B%20Vite-lightblue)
+  ![Back-end](https://img.shields.io/badge/Back--end-Nodejs%20Socket-yellowgreen)
+  [![Link](https://img.shields.io/badge/Link-mmtprep.com-blue)](https://mmtprep.com)
+
 </div>
 
 
