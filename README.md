@@ -10,8 +10,6 @@
 
 </div>
 
-
-
 **Short Description:**  
 This is the tutoring website named **MMTPrep**—a custom MERN project that marks my first full-stack development experience. The website initially began on Wix Studio, but as the business grew, its requirements outpaced the capabilities of Wix. This led to the creation of a more robust and feature-rich solution.
 
@@ -30,6 +28,15 @@ This is the tutoring website named **MMTPrep**—a custom MERN project that mark
 - Invoice Management
 - Online Whiteboard Management
 - Student Progress Report Management
+
+# Before Start
+
+This project was designed to ensure multiple functions operate seamlessly. Initially, I considered various cloud services such as AWS and Azure, but due to the dynamically fluctuating costs tied to web traffic, I decided to use a separate hosting service and installed **cPanel** (a web deployment service) to begin development.
+
+The process started by using **Figma** to create the design mockups and outline the display requirements for the database. From there, I established the back-end foundation and moved forward with front-end development. Throughout the project, QA sessions were conducted to identify bugs and add new features. Given the diverse user groups—students, parents, and teachers—the design was planned from the start with an optimized UI for both mobile and desktop devices.
+
+**JavaScript** was chosen as the primary language for this web project because of its ease of adoption and the broad support it offers for various web frameworks, allowing for more efficient development.
+
 
 ---
 
