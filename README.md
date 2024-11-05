@@ -59,6 +59,10 @@ This feature is designed to manage all types of users, including teachers, stude
 The blog management tool enables admins to add or edit articles, with a focus on SEO to improve Google rankings. The blog serves as a valuable resource for parents interested in learning more about the college admissions process. Additionally, any public Notion page can be uploaded as a blog article. For users familiar with Markdown, they can simply add the Notion page address to embed the Notion article directly on the MMTPrep website.
 
 ## **Scheduling Management**
+<div align="center">
+  <img src="https://github.com/jaegeun1393/MMTPrep_Tutoring/blob/main/Screenshot_2023-04-22_221144.png">
+</div>
+
 This tool was specifically designed for managing the Summer SAT class schedule. Previously, scheduling was handled manually, involving calls to customers and handwritten notes. To streamline this process, the scheduling tool allows the admin to set up classes, while users submit their availability. The admin then approves the schedule, greatly reducing scheduling time and administrative overhead.
 
 ## **Invoice Management**
